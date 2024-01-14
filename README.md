@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/duartengsilva"><img src="https://img.shields.io/badge/Twitter (X)-black?style=flat&labelColor=black&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://twitter.com/duartengsilva"><img src="https://img.shields.io/badge/Twitter (X)-0f0f0f?style=flat&labelColor=0f0f0f&logo=x&logoColor=white" alt="Twitter"/></a>
   <a href="https://instagram.com/duartesilva.ig"><img src="https://img.shields.io/badge/Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mail:heyduartesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>

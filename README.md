@@ -8,7 +8,7 @@
 <hr>
 
 <p align="left">
-  <b>💻 Languages</b>
+  <b>💻 Currently learning</b>
 </p>
 
 <p align="left">
@@ -24,7 +24,6 @@
 <p align="left">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-337ab7?style=flat&labelColor=337ab7&logo=visualstudiocode&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f14e32?style=flat&labelColor=f14e32&logo=git&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6ca75e?style=flat&labelColor=6ca75e&logo=node.js&logoColor=black">
 </p><br>
 
 <p align="left">

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/duasilva/duasilva/main/illustration.svg" alt="Illustration" min-width="400px" max-width="400px" width="500px" align="right">
+<img src="https://raw.githubusercontent.com/duasilva/duasilva/main/profile-illustration.svg" alt="Illustration" min-width="400px" max-width="500px" width="500px" align="right">
 
 <h3>Hello! 👋</h3>
 <p align="left"> 

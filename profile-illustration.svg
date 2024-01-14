@@ -3,7 +3,7 @@
  <g class="layer">
   <title>Layer 1</title>
   <g id="BACKGROUND">
-   <rect fill="#FFFFFF" height="500" id="svg_1" opacity="0.1" width="500"/>
+   <rect fill="#FFFFFF" height="500" id="svg_1" opacity="0" width="500"/>
   </g>
   <g id="OBJECTS">
    <g id="svg_2">

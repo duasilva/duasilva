@@ -1,5 +1,4 @@
-### Duarte Silva 👨‍💻
-
+# Duarte Silva 👨‍💻
 *Currently Learning*<br>
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![](https://img.shields.io/badge/HTML-FF5733?logo=html5&logoColor=white&style=flat) ![](https://img.shields.io/badge/CSS-0066b2?logo=css3&logoColor=white&style=flat)
 

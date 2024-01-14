@@ -32,15 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/Twitter (X)-black?style=flat&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/duartengsilva" alt="Twitter"/></a>
-  <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/duartesilva.ig" alt="Instagram"/></a>
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=mail:heyduartesilva@gmail.com" alt="Gmail"/></a>
-  <!-- <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp"> -->
-  <!-- <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook"> -->
-  <!-- <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram"> -->
+  <a href="https://twitter.com/duartengsilva"><img src="https://img.shields.io/badge/Twitter (X)-black?style=flat&labelColor=black&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/duartesilva.ig"><img src="https://img.shields.io/badge/Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mail:heyduartesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>

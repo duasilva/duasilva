@@ -1,11 +1,9 @@
 <img src="https://raw.githubusercontent.com/duasilva/duasilva/main/profile-illustration.svg" alt="Illustration" max-width="350px" width="350px" align="right">
 
-<h3>Hello! 👋</h3>
-<p align="left"> 
-  My name is Duarte and I'm an aspiring full-stack developer.<br>
+<p align="left">
+  <h1>Hello! 👋</h1>
+  My name is Duarte, and I'm an aspiring full-stack developer with the goal of one day being able to develop web/mobile apps that could be useful to others.<br>
 </p>
-
-<hr>
 
 <p align="left">
   <b>💻 Currently learning</b>

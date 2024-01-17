@@ -16,7 +16,7 @@
   <b>💼 Tools</b><br>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-337ab7?style=flat&labelColor=337ab7&logo=visualstudiocode&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f14e32?style=flat&labelColor=f14e32&logo=git&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0f0f0f?style=flat&labelColor=0f0f0f&logo=linux&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-fff?style=flat&labelColor=fff&logo=linux&logoColor=black">
 </p><br>
 
 <p align="left">

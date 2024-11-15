@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/duasilva/duasilva/main/profile-illustration.svg" alt="Illustration" max-width="350px" width="350px" align="right">
 
 <p align="left">
-  <h1>Hello! 👋</h1>
+  <h2>Hello! 👋</h2>
   Currently focused on learning art and game development.<br>
 </p><br>
 

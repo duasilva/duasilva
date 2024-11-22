@@ -1,24 +1,31 @@
-<img src="https://raw.githubusercontent.com/duasilva/duasilva/main/profile-illustration.svg" alt="Illustration" max-width="350px" width="350px" align="right">
+# Hello! 👋  
+Welcome to my GitHub profile!  
 
-<p align="left">
-  <h1>Hello! 👋</h1>
-  Currently focused on learning art and game development.<br>
-</p><br>
+I'm currently focused on **art** and **game development**, exploring creativity and technology to craft unique experiences.  
 
-<p align="left">
-  <b>💻 Currently Learning</b><br>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-953dac?style=flat&labelColor=953dac&logo=sharp&logoColor=white">
-  </p><br>
+---
 
-<p align="left">
-  <b>💼 Tools</b><br>
-  <img alt="Godot Engine" src="https://img.shields.io/badge/Godot%20Engine-478cbf?style=flat&labelColor=478cbf&logo=godot-engine&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-337ab7?style=flat&labelColor=337ab7&logo=visualstudiocode&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-f14e32?style=flat&labelColor=f14e32&logo=git&logoColor=white">
-</p><br>
+### 💻 Currently Learning  
+- **C#**
+- **Game Development**
 
-<p align="left">
-  <b>💬 Get in Touch</b><br>
-  <a href="https://twitter.com/duartengsilva"><img src="https://img.shields.io/badge/Twitter (X)-0f0f0f?style=flat&labelColor=0f0f0f&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="mail:heyduartesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+---
+
+### 🛠️ Tools I Use  
+- **Godot Engine**
+- **Visual Studio Code**
+- **Git**
+
+---
+
+### 🌟 My Interests  
+- Game Design & Development
+- Digital Art & Illustration
+
+---
+
+### 📬 Get in Touch  
+- **Twitter**: [@duartengsilva](https://twitter.com/duartengsilva)  
+- **Email**: heyduartesilva@gmail.com  
+
+Feel free to connect with me for collaborations, feedback, or just to say hi! 😊

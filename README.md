@@ -11,6 +11,7 @@ Welcome to my GitHub profile!
 
 ### 🛠️ Tools I Use  
 - **Visual Studio Code**
+- **Git**
 
 ---
 

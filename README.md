@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 💻 Currently Learning  
-- **Python**
-- **JavaScript**
+- 
 
 ---
 

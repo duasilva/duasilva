@@ -1,5 +1,4 @@
 # Hello and Welcome! 👋  
-I'm Duarte, a passionate learner diving deep into programming, Linux, and open-source tools. Currently, I'm focused on full-stack development, though I'm still getting the hang of front-end.
 
 ---
 
